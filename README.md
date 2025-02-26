@@ -19,3 +19,7 @@
 
 ## Accuracy plot
 
+![image alt]{https://github.com/UdithGM7/BloodGroup_Detection_using_fingerprint_through_DeepLearning/blob/main/accuracy%20graph.png?raw=true)
+
+
+## Desktop UI 
