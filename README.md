@@ -1,8 +1,8 @@
 # Fingerprint-Based Blood Group Detection 
 
 ## Overview
-  **This project implements a Convolutional Neural Network (CNN) to predict blood group types using fingerprint patterns. 
-  **The model analyzes unique fingerprint features to provide a non-invasive and efficient blood group identification method.
+  ** This project implements a Convolutional Neural Network (CNN) to predict blood group types using fingerprint patterns. 
+  ** The model analyzes unique fingerprint features to provide a non-invasive and efficient blood group identification method.
 
 ## Dataset
   Source: Kaggle – Fingerprint-Based Blood Group Detection Dataset
