@@ -13,4 +13,9 @@
   Loss Function: Categorical Cross-Entropy
   Optimizer: Adam
 
+## Results
+  Achieved 92% accuracy on the test set.
+  Demonstrated strong feature extraction and classification capabilities.
+
+## Accuracy plot
 
